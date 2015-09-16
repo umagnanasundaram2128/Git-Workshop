@@ -7,3 +7,4 @@ Workshop on Git for the students of Coding Club
 
 * Lokeshwaran K, III Year, A section.
 * Sivasubramanyam A, IV Year, B Section.
+* siddharth sagar III year B section
